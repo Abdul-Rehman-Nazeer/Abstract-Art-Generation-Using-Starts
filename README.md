@@ -2,7 +2,7 @@
 
 Transform star points into beautiful constellation patterns using K-Nearest Neighbors algorithm. This interactive web application allows you to upload star images and generate unique geometric patterns.
 
-![Demo](demo.gif)
+(https://knn-star-points.streamlit.app/)
 
 ## Features
 
